@@ -1,0 +1,362 @@
+# Tae Kim Grammar Guide (Split Index)
+
+This index lists each lesson file for retrieval and chunked loading.
+
+## Before you start
+
+- 001 Before you begin -> before-you-start/001-before-you-begin.md
+- 002 Other formats -> before-you-start/002-other-formats.md
+- 003 The problem with conventional textbooks -> before-you-start/003-the-problem-with-conventional-textbooks.md
+- 004 A Japanese guide to learning Japanese grammar -> before-you-start/004-a-japanese-guide-to-learning-japanese-grammar.md
+- 005 Suggestions -> before-you-start/005-suggestions.md
+## The Writing System
+
+- 006 The Scripts -> the-writing-system/006-the-scripts.md
+- 007 Intonation -> the-writing-system/007-intonation.md
+### Hiragana
+
+- 008 The Muddied Sounds -> the-writing-system/hiragana/008-the-muddied-sounds.md
+- 009 The Small 「や」、「ゆ」、and 「よ」 -> the-writing-system/hiragana/009-the-small-and.md
+- 010 The Small 「つ」 -> the-writing-system/hiragana/010-the-small.md
+- 011 The Long Vowel Sound -> the-writing-system/hiragana/011-the-long-vowel-sound.md
+### Katakana
+
+- 012 The Long Vowel Sound -> the-writing-system/katakana/012-the-long-vowel-sound.md
+- 013 The Small 「ア、イ、ウ、エ、オ」 -> the-writing-system/katakana/013-the-small.md
+- 014 Some examples of words in Katakana -> the-writing-system/katakana/014-some-examples-of-words-in-katakana.md
+### Kanji
+
+- 015 What is Kanji? -> the-writing-system/kanji/015-what-is-kanji.md
+- 016 Learning Kanji -> the-writing-system/kanji/016-learning-kanji.md
+- 017 Reading Kanji -> the-writing-system/kanji/017-reading-kanji.md
+- 018 Why Kanji? -> the-writing-system/kanji/018-why-kanji.md
+## Basic Grammatical Structures
+
+### Expressing state-of-being
+
+- 019 Declaring something is so and so using 「だ」 -> basic-grammatical-structures/expressing-state-of-being/019-declaring-something-is-so-and-so-using.md
+- 020 Conjugating to the negative state-of-being -> basic-grammatical-structures/expressing-state-of-being/020-conjugating-to-the-negative-state-of-being.md
+- 021 Conjugating to the past state-of-being -> basic-grammatical-structures/expressing-state-of-being/021-conjugating-to-the-past-state-of-being.md
+- 022 Conjugation summary -> basic-grammatical-structures/expressing-state-of-being/022-conjugation-summary.md
+### Introduction to Particles
+
+- 023 Defining grammatical functions with particles -> basic-grammatical-structures/introduction-to-particles/023-defining-grammatical-functions-with-particles.md
+- 024 The 「は」 topic particle -> basic-grammatical-structures/introduction-to-particles/024-the-topic-particle.md
+- 025 The 「も」 inclusive topic particle -> basic-grammatical-structures/introduction-to-particles/025-the-inclusive-topic-particle.md
+- 026 The 「が」 identifier particle -> basic-grammatical-structures/introduction-to-particles/026-the-identifier-particle.md
+### Adjectives
+
+- 027 Properties of Adjectives -> basic-grammatical-structures/adjectives/027-properties-of-adjectives.md
+- 028 The な-adjective -> basic-grammatical-structures/adjectives/028-the-adjective.md
+- 029 The い-adjective -> basic-grammatical-structures/adjectives/029-the-adjective.md
+- 030 An annoying exception -> basic-grammatical-structures/adjectives/030-an-annoying-exception.md
+### Verb Basics
+
+- 031 Role of Verbs -> basic-grammatical-structures/verb-basics/031-role-of-verbs.md
+- 032 Classifying verbs into る-verbs and う-verbs -> basic-grammatical-structures/verb-basics/032-classifying-verbs-into-verbs-and-verbs.md
+- 033 Appendix: いる/える う-verbs -> basic-grammatical-structures/verb-basics/033-appendix-verbs.md
+### Negative Verbs
+
+- 034 Negative Verbs -> basic-grammatical-structures/negative-verbs/034-negative-verbs.md
+- 035 Conjugating verbs into the negative -> basic-grammatical-structures/negative-verbs/035-conjugating-verbs-into-the-negative.md
+### Past Tense
+
+- 036 Past tense for る-verbs -> basic-grammatical-structures/past-tense/036-past-tense-for-verbs.md
+- 037 Past tense for う-verbs -> basic-grammatical-structures/past-tense/037-past-tense-for-verbs.md
+- 038 Past-negative tense for all verbs -> basic-grammatical-structures/past-tense/038-past-negative-tense-for-all-verbs.md
+### Particles used with verbs
+
+- 039 The direct object 「を」 particle -> basic-grammatical-structures/particles-used-with-verbs/039-the-direct-object-particle.md
+- 040 The target 「に」 particle -> basic-grammatical-structures/particles-used-with-verbs/040-the-target-particle.md
+- 041 The directional 「へ」 particle -> basic-grammatical-structures/particles-used-with-verbs/041-the-directional-particle.md
+- 042 The contextual 「で」 particle -> basic-grammatical-structures/particles-used-with-verbs/042-the-contextual-particle.md
+- 043 When location is the topic -> basic-grammatical-structures/particles-used-with-verbs/043-when-location-is-the-topic.md
+- 044 When direct object is the topic -> basic-grammatical-structures/particles-used-with-verbs/044-when-direct-object-is-the-topic.md
+### Transitive and Intransitive Verbs
+
+- 045 Transitive and Intransitive Verbs -> basic-grammatical-structures/transitive-and-intransitive-verbs/045-transitive-and-intransitive-verbs.md
+- 046 Pay attention to particles! -> basic-grammatical-structures/transitive-and-intransitive-verbs/046-pay-attention-to-particles.md
+### Relative Clauses and Sentence Order
+
+- 047 Treating verbs and state-of-being like adjectives -> basic-grammatical-structures/relative-clauses-and-sentence-order/047-treating-verbs-and-state-of-being-like-adjectives.md
+- 048 Using state-of-being clauses as adjectives -> basic-grammatical-structures/relative-clauses-and-sentence-order/048-using-state-of-being-clauses-as-adjectives.md
+- 049 Using relative verb clauses as adjectives -> basic-grammatical-structures/relative-clauses-and-sentence-order/049-using-relative-verb-clauses-as-adjectives.md
+- 050 Japanese Sentence Order -> basic-grammatical-structures/relative-clauses-and-sentence-order/050-japanese-sentence-order.md
+### Noun-related Particles
+
+- 051 The last three particles (Not!) -> basic-grammatical-structures/noun-related-particles/051-the-last-three-particles-not.md
+- 052 The Inclusive 「と」 particle -> basic-grammatical-structures/noun-related-particles/052-the-inclusive-particle.md
+- 053 The Vague Listing 「や」 and 「とか」 particles -> basic-grammatical-structures/noun-related-particles/053-the-vague-listing-and-particles.md
+- 054 The 「の」 particle -> basic-grammatical-structures/noun-related-particles/054-the-particle.md
+- 055 The 「の」 particle as explanation -> basic-grammatical-structures/noun-related-particles/055-the-particle-as-explanation.md
+### Adverbs and Sentence-ending particles
+
+- 056 Properties of Adverbs -> basic-grammatical-structures/adverbs-and-sentence-ending-particles/056-properties-of-adverbs.md
+- 057 Sentence-ending particles -> basic-grammatical-structures/adverbs-and-sentence-ending-particles/057-sentence-ending-particles.md
+- 058 「ね」 sentence ending -> basic-grammatical-structures/adverbs-and-sentence-ending-particles/058-sentence-ending.md
+- 059 「よ」 sentence ending -> basic-grammatical-structures/adverbs-and-sentence-ending-particles/059-sentence-ending.md
+- 060 Combining both to get 「よね」 -> basic-grammatical-structures/adverbs-and-sentence-ending-particles/060-combining-both-to-get.md
+## Essential Grammar
+
+### Polite Form and Verb Stems
+
+- 061 Not being rude in Japan -> essential-grammar/polite-form-and-verb-stems/061-not-being-rude-in-japan.md
+- 062 The stem of verbs -> essential-grammar/polite-form-and-verb-stems/062-the-stem-of-verbs.md
+- 063 Using 「～ます」 to make verbs polite -> essential-grammar/polite-form-and-verb-stems/063-using-to-make-verbs-polite.md
+- 064 Using 「です」 for everything else -> essential-grammar/polite-form-and-verb-stems/064-using-for-everything-else.md
+- 065 「です」 is NOT the same as 「だ」 -> essential-grammar/polite-form-and-verb-stems/065-is-not-the-same-as.md
+### Addressing People
+
+- 066 Referring to yourself -> essential-grammar/addressing-people/066-referring-to-yourself.md
+- 067 Referring to others by name -> essential-grammar/addressing-people/067-referring-to-others-by-name.md
+- 068 Referring to others with 'you' -> essential-grammar/addressing-people/068-referring-to-others-with-you.md
+- 069 Referring to others in third person -> essential-grammar/addressing-people/069-referring-to-others-in-third-person.md
+- 070 Referring to family members -> essential-grammar/addressing-people/070-referring-to-family-members.md
+### The Question Marker
+
+- 071 Questions in polite form -> essential-grammar/the-question-marker/071-questions-in-polite-form.md
+- 072 The question marker in casual speech -> essential-grammar/the-question-marker/072-the-question-marker-in-casual-speech.md
+- 073 「か」 used in relative clauses -> essential-grammar/the-question-marker/073-used-in-relative-clauses.md
+- 074 Using question words -> essential-grammar/the-question-marker/074-using-question-words.md
+### Compound Sentences
+
+- 075 Expressing a sequence of states -> essential-grammar/compound-sentences/075-expressing-a-sequence-of-states.md
+- 076 Expressing a sequence of verbs with the て-form -> essential-grammar/compound-sentences/076-expressing-a-sequence-of-verbs-with-the-form.md
+- 077 Expressing reason or causation using 「から」 and 「ので」 -> essential-grammar/compound-sentences/077-expressing-reason-or-causation-using-and.md
+- 078 Using 「のに」 to mean 'despite' -> essential-grammar/compound-sentences/078-using-to-mean-despite.md
+- 079 Expressing contradiction using 「が」 and 「けど」 -> essential-grammar/compound-sentences/079-expressing-contradiction-using-and.md
+- 080 Expressing multiple reasons using 「し」 -> essential-grammar/compound-sentences/080-expressing-multiple-reasons-using.md
+- 081 Expressing multiple actions or states using 「～たりする」 -> essential-grammar/compound-sentences/081-expressing-multiple-actions-or-states-using.md
+### Other uses of the て-form
+
+- 082 Using 「～ている」 for enduring states -> essential-grammar/other-uses-of-the-form/082-using-for-enduring-states.md
+- 083 Enduring state-of-being vs enduring state of action -> essential-grammar/other-uses-of-the-form/083-enduring-state-of-being-vs-enduring-state-of-action.md
+- 084 Using 「～てある」 for resultant states -> essential-grammar/other-uses-of-the-form/084-using-for-resultant-states.md
+- 085 Using the 「～ておく」 form as preparation for the future -> essential-grammar/other-uses-of-the-form/085-using-the-form-as-preparation-for-the-future.md
+- 086 Using motion verbs (行く、来る) with the て-form -> essential-grammar/other-uses-of-the-form/086-using-motion-verbs-with-the-form.md
+### Potential Form
+
+- 087 Expressing the ability to do something -> essential-grammar/potential-form/087-expressing-the-ability-to-do-something.md
+- 088 The Potential Form -> essential-grammar/potential-form/088-the-potential-form.md
+- 089 Potential forms do not have direct objects -> essential-grammar/potential-form/089-potential-forms-do-not-have-direct-objects.md
+- 090 Are 「見える」 and 「聞こえる」 exceptions? -> essential-grammar/potential-form/090-are-and-exceptions.md
+- 091 「ある」, yet another exception -> essential-grammar/potential-form/091-yet-another-exception.md
+### Using する and なる with the に particle
+
+- 092 Using 「なる」 and 「する」 for nouns and な-adjectives -> essential-grammar/using-and-with-the-particle/092-using-and-for-nouns-and-adjectives.md
+- 093 Using 「なる」 with い-adjectives -> essential-grammar/using-and-with-the-particle/093-using-with-adjectives.md
+- 094 Using 「なる」 and 「する」 with verbs -> essential-grammar/using-and-with-the-particle/094-using-and-with-verbs.md
+### Conditionals
+
+- 095 How to say 'if' in Japanese -> essential-grammar/conditionals/095-how-to-say-if-in-japanese.md
+- 096 Expressing natural consequence using 「と」 -> essential-grammar/conditionals/096-expressing-natural-consequence-using.md
+- 097 Contextual conditionals using 「なら (ば) 」 -> essential-grammar/conditionals/097-contextual-conditionals-using.md
+- 098 General conditionals using 「ば」 -> essential-grammar/conditionals/098-general-conditionals-using.md
+- 099 Past conditional using 「たら (ば) 」 -> essential-grammar/conditionals/099-past-conditional-using.md
+- 100 How does 「もし」 fit into all of this? -> essential-grammar/conditionals/100-how-does-fit-into-all-of-this.md
+### Expressing "must" or "have to"
+
+- 101 When there's something that must or must not be done -> essential-grammar/expressing-must-or-have-to/101-when-theres-something-that-must-or-must-not-be-done.md
+- 102 Using 「だめ」, 「いけない」, and 「ならない」 for things that must not be done -> essential-grammar/expressing-must-or-have-to/102-using-and-for-things-that-must-not-be-done.md
+- 103 Expressing things that must be done -> essential-grammar/expressing-must-or-have-to/103-expressing-things-that-must-be-done.md
+- 104 Various short-cuts for the lazy -> essential-grammar/expressing-must-or-have-to/104-various-short-cuts-for-the-lazy.md
+- 105 Saying something is ok to do or not do -> essential-grammar/expressing-must-or-have-to/105-saying-something-is-ok-to-do-or-not-do.md
+### Desire and Suggestions
+
+- 106 How to get your way in Japan -> essential-grammar/desire-and-suggestions/106-how-to-get-your-way-in-japan.md
+- 107 Verbs you want to do with 「たい」 -> essential-grammar/desire-and-suggestions/107-verbs-you-want-to-do-with.md
+- 108 Indicating things you want or want done using 「欲しい」 -> essential-grammar/desire-and-suggestions/108-indicating-things-you-want-or-want-done-using.md
+- 109 Making a motion to do something using the volitional form (casual) -> essential-grammar/desire-and-suggestions/109-making-a-motion-to-do-something-using-the-volitional-form-casual.md
+- 110 Making a motion to do something using the volitional form (polite) -> essential-grammar/desire-and-suggestions/110-making-a-motion-to-do-something-using-the-volitional-form-polite.md
+- 111 Making Suggestions using the 「ば」 or 「たら」 conditional -> essential-grammar/desire-and-suggestions/111-making-suggestions-using-the-or-conditional.md
+### Acting on relative clauses
+
+- 112 The direct quote -> essential-grammar/acting-on-relative-clauses/112-the-direct-quote.md
+- 113 The interpreted quote -> essential-grammar/acting-on-relative-clauses/113-the-interpreted-quote.md
+- 114 Using 「って」 as a casual version of 「と」 -> essential-grammar/acting-on-relative-clauses/114-using-as-a-casual-version-of.md
+### Defining and Describing
+
+- 115 The various uses of 「いう」 -> essential-grammar/defining-and-describing/115-the-various-uses-of.md
+- 116 Using 「いう」 to define -> essential-grammar/defining-and-describing/116-using-to-define.md
+- 117 Using 「いう」 to describe anything -> essential-grammar/defining-and-describing/117-using-to-describe-anything.md
+- 118 Rephrasing and making conclusions with 「という」 -> essential-grammar/defining-and-describing/118-rephrasing-and-making-conclusions-with.md
+- 119 Using 「って」 or 「て」 for 「という」 -> essential-grammar/defining-and-describing/119-using-or-for.md
+- 120 Saying 「ゆう」 instead of 「いう」 -> essential-grammar/defining-and-describing/120-saying-instead-of.md
+### Trying or attempting something
+
+- 121 Let's try some stuff -> essential-grammar/trying-or-attempting-something/121-lets-try-some-stuff.md
+- 122 To try something out -> essential-grammar/trying-or-attempting-something/122-to-try-something-out.md
+- 123 To attempt to do something -> essential-grammar/trying-or-attempting-something/123-to-attempt-to-do-something.md
+### Giving and Receiving
+
+- 124 Japanese people like gifts -> essential-grammar/giving-and-receiving/124-japanese-people-like-gifts.md
+- 125 When to use 「あげる」 -> essential-grammar/giving-and-receiving/125-when-to-use.md
+- 126 When to use 「くれる」 -> essential-grammar/giving-and-receiving/126-when-to-use.md
+- 127 When to use 「もらう」 -> essential-grammar/giving-and-receiving/127-when-to-use.md
+- 128 Asking favors with 「くれる」 or 「もらえる」 -> essential-grammar/giving-and-receiving/128-asking-favors-with-or.md
+### Making Requests
+
+- 129 Politely (and not so politely) making requests -> essential-grammar/making-requests/129-politely-and-not-so-politely-making-requests.md
+- 130 「～ください」－ a special conjugation of 「くださる」 -> essential-grammar/making-requests/130-a-special-conjugation-of.md
+- 131 Using 「～ちょうだい」 as a casual request -> essential-grammar/making-requests/131-using-as-a-casual-request.md
+- 132 Using 「～なさい」 to make firm but polite requests -> essential-grammar/making-requests/132-using-to-make-firm-but-polite-requests.md
+- 133 The Command Form -> essential-grammar/making-requests/133-the-command-form.md
+- 134 Negative Command -> essential-grammar/making-requests/134-negative-command.md
+### Numbers and Counting
+
+- 135 The Number System -> essential-grammar/numbers-and-counting/135-the-number-system.md
+- 136 Counting and Counters -> essential-grammar/numbers-and-counting/136-counting-and-counters.md
+- 137 Using 「目」 to show order -> essential-grammar/numbers-and-counting/137-using-to-show-order.md
+### Casual Patterns and Slang
+
+- 138 Basic Principles of Slang -> essential-grammar/casual-patterns-and-slang/138-basic-principles-of-slang.md
+- 139 Sentence ordering and particles (or the lack thereof) -> essential-grammar/casual-patterns-and-slang/139-sentence-ordering-and-particles-or-the-lack-thereof.md
+- 140 Using 「じゃん」 instead of 「じゃない」 to confirm -> essential-grammar/casual-patterns-and-slang/140-using-instead-of-to-confirm.md
+- 141 Using 「つ」 for 「という」 -> essential-grammar/casual-patterns-and-slang/141-using-for.md
+- 142 Using 「ってば」 and 「ったら」to show exasperation -> essential-grammar/casual-patterns-and-slang/142-using-and-to-show-exasperation.md
+- 143 Using 「なんか」 just about everywhere -> essential-grammar/casual-patterns-and-slang/143-using-just-about-everywhere.md
+- 144 Showing contempt for an action with 「～やがる」 -> essential-grammar/casual-patterns-and-slang/144-showing-contempt-for-an-action-with.md
+### Review and more sentence-ending particles
+
+- 145 「な」 and 「さ」 sentence-ending particles -> essential-grammar/review-and-more-sentence-ending-particles/145-and-sentence-ending-particles.md
+- 146 「かい」 and 「だい」 sentence-ending particles -> essential-grammar/review-and-more-sentence-ending-particles/146-and-sentence-ending-particles.md
+- 147 Gender-specific sentence-ending particles -> essential-grammar/review-and-more-sentence-ending-particles/147-gender-specific-sentence-ending-particles.md
+- 148 That's a wrap! -> essential-grammar/review-and-more-sentence-ending-particles/148-thats-a-wrap.md
+## Special Expressions
+
+### Causative and Passive Verbs
+
+- 149 Causative Verbs -> special-expressions/causative-and-passive-verbs/149-causative-verbs.md
+- 150 Passive Verbs -> special-expressions/causative-and-passive-verbs/150-passive-verbs.md
+- 151 Using passive form to show politeness -> special-expressions/causative-and-passive-verbs/151-using-passive-form-to-show-politeness.md
+- 152 Causative-Passive Forms -> special-expressions/causative-and-passive-verbs/152-causative-passive-forms.md
+### Honorific and Humble Forms
+
+- 153 Set Expressions -> special-expressions/honorific-and-humble-forms/153-set-expressions.md
+- 154 Other substitutions -> special-expressions/honorific-and-humble-forms/154-other-substitutions.md
+- 155 Honorific and Humble Conjugations -> special-expressions/honorific-and-humble-forms/155-honorific-and-humble-conjugations.md
+- 156 Making honorific requests -> special-expressions/honorific-and-humble-forms/156-making-honorific-requests.md
+### Unintended Actions
+
+- 157 Using 「しまう」 with other verbs -> special-expressions/unintended-actions/157-using-with-other-verbs.md
+- 158 Using the casual version of 「～てしまう」 -> special-expressions/unintended-actions/158-using-the-casual-version-of.md
+- 159 Another meaning of 「しまう」 -> special-expressions/unintended-actions/159-another-meaning-of.md
+### Special Expressions with Generic Nouns
+
+- 160 Using 「こと」 to say whether something has happened -> special-expressions/special-expressions-with-generic-nouns/160-using-to-say-whether-something-has-happened.md
+- 161 Using 「ところ」 as an abstract place -> special-expressions/special-expressions-with-generic-nouns/161-using-as-an-abstract-place.md
+- 162 Using 「もの」 as a casual feminine way to emphasize -> special-expressions/special-expressions-with-generic-nouns/162-using-as-a-casual-feminine-way-to-emphasize.md
+### Various degrees of certainty
+
+- 163 Using 「かもしれない」 to express uncertainty -> special-expressions/various-degrees-of-certainty/163-using-to-express-uncertainty.md
+- 164 Using 「でしょう」 to express a fair amount of certainty (polite) -> special-expressions/various-degrees-of-certainty/164-using-to-express-a-fair-amount-of-certainty-polite.md
+- 165 Using 「でしょう」 and 「だろう」 to express strong amount of certainty (casual) -> special-expressions/various-degrees-of-certainty/165-using-and-to-express-strong-amount-of-certainty-casual.md
+### Expressing Amounts
+
+- 166 Indicating that's all there is using 「だけ」 -> special-expressions/expressing-amounts/166-indicating-thats-all-there-is-using.md
+- 167 Using 「のみ」 as a formal version of 「だけ」 -> special-expressions/expressing-amounts/167-using-as-a-formal-version-of.md
+- 168 Indication that there's nothing else using 「しか」 -> special-expressions/expressing-amounts/168-indication-that-theres-nothing-else-using.md
+- 169 Expressing the opposite of 「だけ」 with 「ばかり」 -> special-expressions/expressing-amounts/169-expressing-the-opposite-of-with.md
+- 170 Saying there's too much of something using 「すぎる」 -> special-expressions/expressing-amounts/170-saying-theres-too-much-of-something-using.md
+- 171 Adding the 「も」 particle to express excessive amounts -> special-expressions/expressing-amounts/171-adding-the-particle-to-express-excessive-amounts.md
+- 172 Using 「ほど」 to express the extent of something -> special-expressions/expressing-amounts/172-using-to-express-the-extent-of-something.md
+- 173 Using 「～さ」 with adjectives to indicate an amount -> special-expressions/expressing-amounts/173-using-with-adjectives-to-indicate-an-amount.md
+### Similarity or hearsay
+
+- 174 Expressing similarity with よう (様) -> special-expressions/similarity-or-hearsay/174-expressing-similarity-with.md
+- 175 Using 「みたい」 to say something looks like something else -> special-expressions/similarity-or-hearsay/175-using-to-say-something-looks-like-something-else.md
+- 176 Guessing at an outcome using 「～そう」 -> special-expressions/similarity-or-hearsay/176-guessing-at-an-outcome-using.md
+- 177 Expressing hearsay using 「～そうだ」 -> special-expressions/similarity-or-hearsay/177-expressing-hearsay-using.md
+- 178 Expressing hearsay or behavior using 「～らしい」 -> special-expressions/similarity-or-hearsay/178-expressing-hearsay-or-behavior-using.md
+- 179 「っぽい」: Slang expression of similarity -> special-expressions/similarity-or-hearsay/179-slang-expression-of-similarity.md
+### Using 「方」 and 「よる」
+
+- 180 Using 「方」 for comparisons -> special-expressions/using-and/180-using-for-comparisons.md
+- 181 Using 「より」 for comparisons -> special-expressions/using-and/181-using-for-comparisons.md
+- 182 Using 「方」 to express a way to do something -> special-expressions/using-and/182-using-to-express-a-way-to-do-something.md
+- 183 Using 「によって」 to express dependency -> special-expressions/using-and/183-using-to-express-dependency.md
+- 184 Indicating a source of information using 「によると」 -> special-expressions/using-and/184-indicating-a-source-of-information-using.md
+### Actions that are easy or hard to do
+
+- 185 Actions that are easy or hard to do -> special-expressions/actions-that-are-easy-or-hard-to-do/185-actions-that-are-easy-or-hard-to-do.md
+- 186 Variations of 「～にくい」 with 「～がたい」 and 「～づらい」 -> special-expressions/actions-that-are-easy-or-hard-to-do/186-variations-of-with-and.md
+### More negative verbs
+
+- 187 Doing something without doing something else -> special-expressions/more-negative-verbs/187-doing-something-without-doing-something-else.md
+- 188 A casual masculine type of negative that ends in 「ん」 -> special-expressions/more-negative-verbs/188-a-casual-masculine-type-of-negative-that-ends-in.md
+- 189 A classical negative verb that ends in 「ぬ」 -> special-expressions/more-negative-verbs/189-a-classical-negative-verb-that-ends-in.md
+### Hypothesizing and Concluding
+
+- 190 Coming to a conclusion with 「わけ」 -> special-expressions/hypothesizing-and-concluding/190-coming-to-a-conclusion-with.md
+- 191 Making hypotheses with 「とする」 -> special-expressions/hypothesizing-and-concluding/191-making-hypotheses-with.md
+### Time-specific actions
+
+- 192 Expressing what just happened with 「～ばかり」 -> special-expressions/time-specific-actions/192-expressing-what-just-happened-with.md
+- 193 Express what occurred immediately after with 「とたん」 -> special-expressions/time-specific-actions/193-express-what-occurred-immediately-after-with.md
+- 194 Using 「ながら」 for two concurrent actions -> special-expressions/time-specific-actions/194-using-for-two-concurrent-actions.md
+- 195 Using 「ながら」 with state-of-being -> special-expressions/time-specific-actions/195-using-with-state-of-being.md
+- 196 To repeat something with reckless abandon using 「まくる」 -> special-expressions/time-specific-actions/196-to-repeat-something-with-reckless-abandon-using.md
+### Expressing a lack of change
+
+- 197 Using 「まま」 to express a lack of change -> special-expressions/expressing-a-lack-of-change/197-using-to-express-a-lack-of-change.md
+- 198 Using 「っぱなし」 to leave something the way it is -> special-expressions/expressing-a-lack-of-change/198-using-to-leave-something-the-way-it-is.md
+## Advanced Topics
+
+### Formal Expressions
+
+- 199 What do you mean by formal expressions? -> advanced-topics/formal-expressions/199-what-do-you-mean-by-formal-expressions.md
+- 200 Using 「である」 for formal state-of-being -> advanced-topics/formal-expressions/200-using-for-formal-state-of-being.md
+- 201 Negative of 「である」 -> advanced-topics/formal-expressions/201-negative-of.md
+- 202 Sequential relative clauses in formal language -> advanced-topics/formal-expressions/202-sequential-relative-clauses-in-formal-language.md
+### Things that should be a certain way
+
+- 203 Using 「はず」 to describe an expectation -> advanced-topics/things-that-should-be-a-certain-way/203-using-to-describe-an-expectation.md
+- 204 Using 「べき」 to describe actions one should do -> advanced-topics/things-that-should-be-a-certain-way/204-using-to-describe-actions-one-should-do.md
+- 205 Using 「べく」 to describe what one tries to do -> advanced-topics/things-that-should-be-a-certain-way/205-using-to-describe-what-one-tries-to-do.md
+- 206 Using 「べからず」 to describe things one must not do -> advanced-topics/things-that-should-be-a-certain-way/206-using-to-describe-things-one-must-not-do.md
+### The minimum expectation
+
+- 207 Using 「 (で) さえ」 to describe the minimum requirement -> advanced-topics/the-minimum-expectation/207-using-to-describe-the-minimum-requirement.md
+- 208 「 (で) すら」 – Older version of 「 (で) さえ」 -> advanced-topics/the-minimum-expectation/208-older-version-of.md
+- 209 「おろか」 – It's not even worth considering -> advanced-topics/the-minimum-expectation/209-its-not-even-worth-considering.md
+### Showing signs of something
+
+- 210 Showing outward signs of an emotion using 「～がる」 -> advanced-topics/showing-signs-of-something/210-showing-outward-signs-of-an-emotion-using.md
+- 211 Using 「ばかり」 to act as if one might do something -> advanced-topics/showing-signs-of-something/211-using-to-act-as-if-one-might-do-something.md
+- 212 Using 「めく」 to indicate an atmosphere of a state -> advanced-topics/showing-signs-of-something/212-using-to-indicate-an-atmosphere-of-a-state.md
+### Expressing non-feasibility
+
+- 213 Expressing the inability to not do using 「～ざるを得ない」 -> advanced-topics/expressing-non-feasibility/213-expressing-the-inability-to-not-do-using.md
+- 214 Expressing the inability to stop doing something using 「やむを得ない」 -> advanced-topics/expressing-non-feasibility/214-expressing-the-inability-to-stop-doing-something-using.md
+- 215 Expressing what cannot be done with 「～かねる」 -> advanced-topics/expressing-non-feasibility/215-expressing-what-cannot-be-done-with.md
+### Tendencies
+
+- 216 Saying something is prone to occur using 「～がち」 -> advanced-topics/tendencies/216-saying-something-is-prone-to-occur-using.md
+- 217 Describing an ongoing occurrence using 「～つつ」 -> advanced-topics/tendencies/217-describing-an-ongoing-occurrence-using.md
+- 218 Describing a negative tendency using 「きらいがある」 -> advanced-topics/tendencies/218-describing-a-negative-tendency-using.md
+### Advanced Volitional
+
+- 219 Negative Volitional -> advanced-topics/advanced-volitional/219-negative-volitional.md
+- 220 Using the volitional to express a lack of relation -> advanced-topics/advanced-volitional/220-using-the-volitional-to-express-a-lack-of-relation.md
+- 221 Using 「であろう」 to express likelihood -> advanced-topics/advanced-volitional/221-using-to-express-likelihood.md
+- 222 Using 「かろう」 as volitional for 「い」 endings -> advanced-topics/advanced-volitional/222-using-as-volitional-for-endings.md
+### Covered by something
+
+- 223 Using 「だらけ」 when an object is riddled everywhere with something -> advanced-topics/covered-by-something/223-using-when-an-object-is-riddled-everywhere-with-something.md
+- 224 Using 「まみれ」 to describe a covering -> advanced-topics/covered-by-something/224-using-to-describe-a-covering.md
+- 225 「ずくめ」 to express entirety -> advanced-topics/covered-by-something/225-to-express-entirety.md
+### Immediate Events
+
+- 226 Using 「が早いか」 to describe the instant something occurred -> advanced-topics/immediate-events/226-using-to-describe-the-instant-something-occurred.md
+- 227 Using 「や／や否や」 to describe what happened right after -> advanced-topics/immediate-events/227-using-to-describe-what-happened-right-after.md
+- 228 Using 「そばから」 to describe an event that repeatedly occurs soon after -> advanced-topics/immediate-events/228-using-to-describe-an-event-that-repeatedly-occurs-soon-after.md
+### Other Grammar
+
+- 229 Using 「思いきや」 to describe something unexpected -> advanced-topics/other-grammar/229-using-to-describe-something-unexpected.md
+- 230 Using 「～がてら」 to do two things at one time -> advanced-topics/other-grammar/230-using-to-do-two-things-at-one-time.md
+- 231 Using 「～あげく (挙句) 」 to describe a bad result -> advanced-topics/other-grammar/231-using-to-describe-a-bad-result.md
+## Misc.
+
+- 232 Unique vocabulary used -> misc/232-unique-vocabulary-used.md
+- 233 Unique kanji used -> misc/233-unique-kanji-used.md
+- 234 DoJG references used -> misc/234-dojg-references-used.md
