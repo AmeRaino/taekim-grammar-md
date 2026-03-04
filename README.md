@@ -12,6 +12,7 @@ This repo splits the content into many small Markdown files organized by chapter
 
 - Original guide: https://www.guidetojapanese.org/learn/grammar
 - Mirror used in this repo: `taekim.html`
+- HTML file credit: https://github.com/kenrick95/itazuraneko/tree/master
 
 ## Project Structure
 
