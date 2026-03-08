@@ -18,6 +18,7 @@ This repo splits the content into many small Markdown files organized by chapter
 
 - `taekim.html`: source HTML (single page)
 - `scripts/split_taekim.py`: splitter script
+- `scripts/apkg_to_md.py`: Anki `.apkg` to Markdown converter
 - `taekim-md/`: generated Markdown corpus
 - `taekim-md/llms.txt`: index for retrieval routing
 
@@ -26,6 +27,10 @@ This repo splits the content into many small Markdown files organized by chapter
 Generated files are organized like:
 
 - `taekim-md/<chapter>/<subchapter>/<NNN-title>.md`
+
+For Anki exports, generated files are organized like:
+
+- `<output>/<deck>/<subdeck>/<NNN-title>.md`
 
 Each lesson file includes:
 
@@ -37,6 +42,13 @@ Each lesson file includes:
 
 ```bash
 python3 scripts/split_taekim.py --input taekim.html --output taekim-md
+```
+
+```bash
+python3 scripts/apkg_to_md.py \
+  --input "Nihongo Kyoushi.apkg" \
+  --output nihongo-kyoushi-md \
+  --clear-output
 ```
 
 ## Notes
